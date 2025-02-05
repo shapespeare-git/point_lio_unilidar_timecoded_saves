@@ -9,6 +9,8 @@
 #include <so3_math.h>
 #include <Eigen/Core>
 
+#include <ctime>
+
 #include <pcl_conversions/pcl_conversions.h>
 #include <pcl/point_cloud.h>
 #include <pcl/point_types.h>
